@@ -13,5 +13,5 @@ My personal configuration / dot files for [Fish Shell][fish] using the [Oh My Fi
 - Customize as needed.
 
 
-[fish]: fishshell.com
+[fish]: https://github.com/fish-shell/fish-shell
 [omf]: https://github.com/oh-my-fish/oh-my-fish

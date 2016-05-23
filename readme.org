@@ -8,7 +8,7 @@
     - Install [[https://github.com/oh-my-fish/oh-my-fish][Oh-My-Fish]].
     - Clone this repository to $OMF_CONFIG path (~/.config/omf by default).
     #+BEGIN_SRC sh
-      $ git clone https://github.com/angstbear/omf-config.git $OMF_CONFIG
+      $ git clone https://github.com/angstbear/fish-config.git $OMF_CONFIG
     #+END_SRC
 
 *** Fisherman

@@ -1,13 +1,18 @@
-# abbreviations.fish
+# Abbreviations
 
 abbr -a v="vim"
+abbr -a vi="vim"
+abbr -a vmi="vim"
 abbr -a em="emacs"
 abbr -a e="emacs"
 abbr -a ..="cd .."
 abbr -a ...="cd ../.."
 abbr -a -="cd -"
 
-# Git
+abbr -a cp="cp -iv"
+abbr -a mv="mv -iv"
+abbr -a rm="rm -iv"
+
 abbr -a gita="git add"
 abbr -a gitb="git branch"
 abbr -a gitc="git commit"

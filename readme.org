@@ -1,5 +1,3 @@
-
-
 * Fish Configuration
   My personal "dotfiles" for [[http://fishshell.com][Fish Shell]], installable via [[https://github.com/oh-my-fish/oh-my-fish][Oh My Fish]] or [[https://github.com/fisherman/fisherman][fisherman]]. I plan to keep updating this on a regular basis, hopefully adding more functionality and efficiency.
 
@@ -17,8 +15,3 @@
     #+BEGIN_SRC sh
         $ fisher angstbear/fish-config
     #+END_SRC
-
-
-      
-
-

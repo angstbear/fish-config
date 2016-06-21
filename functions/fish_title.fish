@@ -1,4 +1,8 @@
 function fish_title
-    echo "$USER@$__fish_prompt_hostname $argv[1] "
+    if hostname | grep 'alpha' > /dev/null
+        echo "b-m-$USER@alpha $argv[1] "
+    else
+        echo "$USER@"(hostname)" $argv[1] "
+    end
     pwd
 end

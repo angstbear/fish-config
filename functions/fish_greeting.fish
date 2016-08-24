@@ -8,7 +8,8 @@ function fish_greeting
             switch (uname)
             case Darwin
                 echo Installing fortune and cowsay
-                brew install fortune cowsay
+                brew install fortune
+		sudo gem install lolcat
             case Linux
                 echo Installing fortune and cowsay
                 if which apt-get > /dev/null ^ /dev/null

@@ -7,7 +7,6 @@ abbr -a em="emacs"
 abbr -a e="emacs"
 abbr -a ..="cd .."
 abbr -a ...="cd ../.."
-abbr -a -="cd -"
 
 abbr -a cp="cp -iv"
 abbr -a mv="mv -iv"

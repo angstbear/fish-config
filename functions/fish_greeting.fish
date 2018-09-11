@@ -21,7 +21,8 @@ function fish_greeting
                 echo Wait ... where are we\? (uname), eh
             end
         end
-        set -l toon bud-frogs
+
+        set -l toon (random choice {default,bud-frogs,dragon,dragon-and-cow,elephant,moose,stegosaurus,tux,vader})
         if which lolcat > /dev/null ^ /dev/null
             fortune -s | cowsay -f $toon | lolcat
         else if which fortune > /dev/null ^ /dev/null

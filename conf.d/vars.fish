@@ -3,7 +3,7 @@
 set -U VISUAL emacs
 set -U EDITOR $VISUAL
 
-set -x PATH ~/src/git-achievements $PATH
+set -x PATH ~/dev/git-achievements $PATH
 
 switch (uname)
 case Darwin

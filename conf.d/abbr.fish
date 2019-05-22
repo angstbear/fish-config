@@ -5,6 +5,8 @@ abbr -a vi vim
 abbr -a vmi vim
 abbr -a em emacs
 abbr -a e emacs
+abbr -a a atom
+abbr -a sp spotify
 abbr -a .. "cd .."
 abbr -a ... "cd ../.."
 
